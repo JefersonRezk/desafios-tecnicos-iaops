@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Sistema/editor
+.DS_Store
+.idea/
+.vscode/
